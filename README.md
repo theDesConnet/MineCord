@@ -42,5 +42,5 @@
 ## Я в...
 [![Вконтакте](https://img.shields.io/badge/Вконтакте-blue?logo=vk)](https://vk.com/endnet)
 [![Ютубе](https://img.shields.io/badge/Ютубе-FF0000?logo=youtube)](https://youtube.com/c/DesConnet)
-![DesConnet#9393](https://img.shields.io/badge/DesConnet%239393-7289DA?logo=discord&logoColor=white)
+[![DesConnet#9393](https://img.shields.io/badge/DesConnet%239393-7289DA?logo=discord&logoColor=white)](https://discord.com/users/1027310755760062545/)
 

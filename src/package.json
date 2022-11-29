@@ -1,0 +1,17 @@
+{
+  "name": "minecord",
+  "version": "0.1.0",
+  "description": "Discord bot...",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DesConnet",
+  "license": "GPL-2.0",
+  "dependencies": {
+    "discord.js": "^14.7.0",
+    "mineflayer": "^4.5.1",
+    "mineflayer-pathfinder": "^2.1.1",
+    "mineflayer-pvp": "^1.2.1"
+  }
+}
